@@ -1,0 +1,72 @@
+[
+  {
+    "id": "BEN-001",
+    "name": "Dubai Municipality",
+    "type": "Government",
+    "iban": "AE190260001112223334445",
+    "bank": "Emirates NBD"
+  },
+  {
+    "id": "BEN-002",
+    "name": "Etisalat",
+    "type": "Utilities",
+    "iban": "AE680350009998887776665",
+    "bank": "FAB"
+  },
+  {
+    "id": "BEN-003",
+    "name": "DU Telecom",
+    "type": "Utilities",
+    "iban": "AE230330000554433221100",
+    "bank": "Mashreq"
+  },
+  {
+    "id": "BEN-004",
+    "name": "Al Noor Holdings",
+    "type": "Supplier",
+    "iban": "AE610260000123443211234",
+    "bank": "Emirates NBD"
+  },
+  {
+    "id": "BEN-005",
+    "name": "Gulf Systems",
+    "type": "Supplier",
+    "iban": "AE930350001112225556667",
+    "bank": "FAB"
+  },
+  {
+    "id": "BEN-006",
+    "name": "RTA Dubai",
+    "type": "Government",
+    "iban": "AE840330000778899001122",
+    "bank": "Mashreq"
+  },
+  {
+    "id": "BEN-007",
+    "name": "Aster Healthcare",
+    "type": "Supplier",
+    "iban": "AE100260000112239990000",
+    "bank": "Emirates NBD"
+  },
+  {
+    "id": "BEN-008",
+    "name": "ABC Trading LLC",
+    "type": "Supplier",
+    "iban": "AE990350009990000111222",
+    "bank": "FAB"
+  },
+  {
+    "id": "BEN-009",
+    "name": "GEMS Education",
+    "type": "Supplier",
+    "iban": "AE440330000887766554433",
+    "bank": "Mashreq"
+  },
+  {
+    "id": "BEN-010",
+    "name": "DEWA",
+    "type": "Utilities",
+    "iban": "AE770260000998877665544",
+    "bank": "Emirates NBD"
+  }
+]
