@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ACC-001",
+    "bank": "Emirates NBD",
+    "name": "Operating Account",
+    "accountNumber": "AE470260000123456789001",
+    "balance": 845233.5,
+    "currency": "AED",
+    "type": "Current"
+  },
+  {
+    "id": "ACC-002",
+    "bank": "First Abu Dhabi Bank",
+    "name": "Payroll Account",
+    "accountNumber": "AE890350000987654321002",
+    "balance": 214580.75,
+    "currency": "AED",
+    "type": "Salary"
+  },
+  {
+    "id": "ACC-003",
+    "bank": "Mashreq",
+    "name": "Savings Buffer",
+    "accountNumber": "AE120330000456789123003",
+    "balance": 1265000.0,
+    "currency": "AED",
+    "type": "Savings"
+  }
+]
