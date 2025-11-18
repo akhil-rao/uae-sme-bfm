@@ -1,0 +1,13 @@
+[
+  {
+    "id": "LOAN-001",
+    "lender": "Emirates Development Bank",
+    "amount": 500000,
+    "balance": 285000,
+    "rate": 4.25,
+    "tenureMonths": 36,
+    "startDate": "2023-06-01",
+    "nextInstallment": "2024-07-05",
+    "monthlyPayment": 14750
+  }
+]
